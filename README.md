@@ -1,2 +1,2 @@
-# 5 ways to map population with R
+# 6 ways to map population with R
 
